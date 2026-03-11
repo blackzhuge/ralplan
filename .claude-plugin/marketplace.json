@@ -1,10 +1,19 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ralplan-marketplace",
+  "description": "Marketplace source for the ralplan Claude Code plugin.",
+  "owner": {
+    "name": "blackzhuge"
+  },
   "plugins": [
     {
       "name": "ralplan",
-      "version": "0.1.0",
       "description": "Native Claude Code consensus-planning plugin with standalone skill, agents, hooks, and project-local runtime state.",
-      "repository": "https://github.com/blackzhuge/ralplan"
+      "version": "0.1.0",
+      "author": {
+        "name": "blackzhuge"
+      },
+      "source": "."
     }
   ]
 }
