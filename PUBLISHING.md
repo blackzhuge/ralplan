@@ -13,7 +13,7 @@ This repository is prepared as a **Claude Code plugin repository** using the sta
 
 ## Intended installation flow
 
-After publishing the repository, users should be able to install it in marketplace style:
+After publishing the repository, if this repository is also used as a marketplace source, users should be able to install it in marketplace style:
 
 ```text
 /plugin marketplace add https://github.com/blackzhuge/ralplan

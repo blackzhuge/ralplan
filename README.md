@@ -4,11 +4,11 @@
 
 ## 安装
 
-发布到 GitHub 后，可按 marketplace 风格安装：
+发布到 GitHub 后，如果该仓库同时作为 marketplace 源，也可以按如下方式安装：
 
 ```text
 /plugin marketplace add https://github.com/blackzhuge/ralplan
-/plugininstall ralplan
+/plugin install ralplan
 ```
 
 本地开发测试也可以直接使用插件目录：
