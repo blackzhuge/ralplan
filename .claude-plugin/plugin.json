@@ -1,0 +1,17 @@
+{
+  "name": "ralplan",
+  "version": "0.1.0",
+  "description": "Native Claude Code consensus-planning plugin with standalone skill, agents, hooks, and project-local runtime state.",
+  "author": {
+    "name": "blackzhuge"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/blackzhuge/ralplan",
+  "keywords": [
+    "claude-code",
+    "plugin",
+    "planning",
+    "consensus",
+    "ralplan"
+  ]
+}
